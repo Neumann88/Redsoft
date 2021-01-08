@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Merriweather-Regular";
+  src: url("~@/fonts/Merriweather-Regular/Merriweather-Regular.eot");
+  src: url("~@/fonts/Merriweather-Regular/Merriweather-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("~@/fonts/Merriweather-Regular/Merriweather-Regular.svg#Merriweather-Regular")
+      format("svg"),
+    url("~@/fonts/Merriweather-Regular/Merriweather-Regular.ttf")
+      format("truetype"),
+    url("~@/fonts/Merriweather-Regular/Merriweather-Regular.woff")
+      format("woff"),
+    url("~@/fonts/Merriweather-Regular/Merriweather-Regular.woff2")
+      format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Merriweather-Bold";
+  src: url("~@/fonts/Merriweather-Bold/Merriweather-Bold.eot");
+  src: url("~@/fonts/Merriweather-Bold/Merriweather-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("~@/fonts/Merriweather-Bold/Merriweather-Bold.svg#Merriweather-Bold")
+      format("svg"),
+    url("~@/fonts/Merriweather-Bold/Merriweather-Bold.ttf") format("truetype"),
+    url("~@/fonts/Merriweather-Bold/Merriweather-Bold.woff") format("woff"),
+    url("~@/fonts/Merriweather-Bold/Merriweather-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Merriweather-Light";
+  src: url("~@/fonts/Merriweather-Light/Merriweather-Light.eot");
+  src: url("~@/fonts/Merriweather-Light/Merriweather-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("~@/fonts/Merriweather-Light/Merriweather-Light.svg#Merriweather-Light")
+      format("svg"),
+    url("~@/fonts/Merriweather-Light/Merriweather-Light.ttf") format("truetype"),
+    url("~@/fonts/Merriweather-Light/Merriweather-Light.woff") format("woff"),
+    url("~@/fonts/Merriweather-Light/Merriweather-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
