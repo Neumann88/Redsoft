@@ -31,6 +31,7 @@ h5,
 h6 {
   margin-block-start: 0;
   margin-block-end: 0;
+  font-weight: normal;
 }
 
 .wrapper {

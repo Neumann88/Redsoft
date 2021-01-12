@@ -24,11 +24,12 @@ export default {
   align-self: center;
 
   &__input {
+    opacity: 0.6;
     padding-left: 15px;
     background: #f6f3f3;
     font-size: 14px;
     border: 1px solid#e1e1e1;
-    min-width: 275px;
+    width: 275px;
     height: 44px;
   }
 
@@ -40,7 +41,7 @@ export default {
     font-size: 14px;
     background: #403432;
     color: white;
-    min-width: 122px;
+    width: 120px;
     height: 48px;
     border: none;
     cursor: pointer;
