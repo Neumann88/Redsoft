@@ -4,10 +4,14 @@
 ```
 npm install
 ```
+### START fake json server!!!
+```
+npm run json
+```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run start
 ```
 
 ### Compiles and minifies for production
