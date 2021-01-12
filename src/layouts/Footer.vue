@@ -20,7 +20,6 @@ export default {
 <style lang="scss">
 .footer {
   background: #ece9e9;
-  height: 10.3vh;
-  width: 100vw;
+  height: 10.3%;
 }
 </style>

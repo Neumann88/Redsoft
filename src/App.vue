@@ -36,6 +36,7 @@ h6 {
 
 .wrapper {
   font-family: "Merriweather-Regular", sans-serif;
+  height: 100vh;
   .container {
     width: 63.3vw;
     height: 100%;

@@ -20,8 +20,7 @@ export default {
 <style lang="scss">
 .header {
   background: #f6f3f3;
-  height: 10.1vh;
-  width: 100vw;
+  height: 10.1%;
   border-bottom: 1px solid #e1e1e1;
 }
 </style>

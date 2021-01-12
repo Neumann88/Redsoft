@@ -8,14 +8,12 @@
         :card_data="items"
         @add="add"
       />
-      <!-- <DisabledCard /> -->
     </div>
   </div>
 </template>
 
 <script>
 import { mapGetters, mapActions } from "vuex";
-// import DisabledCard from "./DisabledCard/DisabledCard.vue";
 import Card from "./Card/Card.vue";
 
 export default {
@@ -50,6 +48,10 @@ export default {
   &__cards {
     display: flex;
     justify-content: space-between;
+
+    @media (max-width: 1400px) {
+      flex-wrap: wrap;
+    }
   }
 }
 </style>

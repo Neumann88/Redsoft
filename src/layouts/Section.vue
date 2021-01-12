@@ -15,7 +15,6 @@ export default {
 <style lang="scss">
 .section {
   background: #f6f3f3;
-  height: 79.5vh;
-  width: 100vw;
+  height: 79.5%;
 }
 </style>
