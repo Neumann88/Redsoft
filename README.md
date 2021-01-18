@@ -23,3 +23,7 @@ npm run start
 ```
 npm run build
 ```
+
+## Приложение написанное на vue 2, vuex, vue-router
+## В качестве сервера используется fake json rest api server 
+## Axios в качестве ajax запросов
