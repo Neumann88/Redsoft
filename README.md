@@ -31,3 +31,10 @@ npm run build
 https://docs.google.com/document/d/1Vamqwl3MaXDFOMcEBTVsvoZhADblO-CcBVqVKs3Pij0/edit - ТЗ
 
 p.s нашел ТЗ на просторах интернета и делал для практики,отклик не кидал...
+
+### -SPA приложение на vue 2,vue cli,vuex,vue-router
+### -Fake json server в качестве сервера
+### -Localstorage для хранения состояния карточек
+### -Axios в качестве ajax запроса
+### -Именование классов тегов по методологии BEM
+### -Scss препроцессор для стилизации тегов
