@@ -24,12 +24,7 @@ npm run start
 npm run build
 ```
 
-## Приложение написанное на vue 2, vuex, vue-router
-## В качестве сервера используется fake json rest api server 
-## Axios в качестве ajax запросов
-
 https://docs.google.com/document/d/1Vamqwl3MaXDFOMcEBTVsvoZhADblO-CcBVqVKs3Pij0/edit - ТЗ
-
 p.s нашел ТЗ на просторах интернета и делал для практики,отклик не кидал...
 
 ### -SPA приложение на vue 2,vue cli,vuex,vue-router
